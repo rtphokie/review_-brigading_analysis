@@ -1,0 +1,4 @@
+googlemaps==4.6.0
+requests_cache
+matplotlib
+numpy
